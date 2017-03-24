@@ -1,5 +1,3 @@
-from pagina import Pagina
-
 class Giornale:
     def __init__(self,pag):
         self.pag=pag

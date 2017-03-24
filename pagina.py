@@ -1,5 +1,3 @@
-from articolo import Articolo
-
 class Pagina:
     def __init__(self,art):
         self.art=art
@@ -16,6 +14,6 @@ class Pagina:
     def __str__(self):
         arts=""
         for i in self.art:
-            arts=arts+str(i)
+            arts=arts+"\n"+str(i)+'\n'
         return arts    
 
