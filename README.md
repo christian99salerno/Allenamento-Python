@@ -1,1 +1,1 @@
-# Allenamento-Python
+# Giornale-Python
